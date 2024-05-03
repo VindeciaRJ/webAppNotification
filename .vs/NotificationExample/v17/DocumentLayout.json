@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|d:\\users\\vindeciaz\\source\\repos\\notificationexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\scripts\\jquery.signalr-2.4.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:scripts\\jquery.signalr-2.4.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\scripts\\jquery.signalr-2.4.3.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:scripts\\jquery.signalr-2.4.3.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\models\\datamodel\\adddatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:models\\datamodel\\adddatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682BB922-28FB-4C0D-B762-776ED4063756}|NotificationExample.csproj|solutionrelative:models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\packages\\toastr.2.1.1\\content\\scripts\\toastr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\toastr.2.1.1\\content\\scripts\\toastr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "toastr.js",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\packages\\toastr.2.1.1\\content\\scripts\\toastr.js",
+              "RelativeDocumentMoniker": "packages\\toastr.2.1.1\\content\\scripts\\toastr.js",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\packages\\toastr.2.1.1\\content\\scripts\\toastr.js",
+              "RelativeToolTip": "packages\\toastr.2.1.1\\content\\scripts\\toastr.js",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-03T14:19:50.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:13:23.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:04:32.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:03:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:01:40.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-03T13:21:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jquery.signalR-2.4.3.js",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Scripts\\jquery.signalR-2.4.3.js",
+              "RelativeDocumentMoniker": "Scripts\\jquery.signalR-2.4.3.js",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Scripts\\jquery.signalR-2.4.3.js",
+              "RelativeToolTip": "Scripts\\jquery.signalR-2.4.3.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-03T13:20:34.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "jquery.signalR-2.4.3.min.js",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Scripts\\jquery.signalR-2.4.3.min.js",
+              "RelativeDocumentMoniker": "Scripts\\jquery.signalR-2.4.3.min.js",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Scripts\\jquery.signalR-2.4.3.min.js",
+              "RelativeToolTip": "Scripts\\jquery.signalR-2.4.3.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-03T13:20:29.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:08:11.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T11:50:44.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:05:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:00:20.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:04:44.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddDataModel.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Models\\DataModel\\AddDataModel.cs",
+              "RelativeDocumentMoniker": "Models\\DataModel\\AddDataModel.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Models\\DataModel\\AddDataModel.cs",
+              "RelativeToolTip": "Models\\DataModel\\AddDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:45:38.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Hubs\\NotificationHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:17:58.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:12:20.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T10:11:54.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAwI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:07:32.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\AccountViewModels.cs",
+              "ToolTip": "D:\\Users\\VindeciaZ\\source\\repos\\NotificationExample\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:04:21.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1 class="lead">Notification Example</h1>
+    <h3>Number of Notification: <span id="num">0</span></h3>
+    <p>User(From):</p><input type="text" id="From" />
+    <p>To:</p><input type="text" id="To" />
+    <p>Title</p><input type="text" id="Title" />
+    <p>Message</p><textarea id="Message"></textarea>
+    <button onclick="SendNoti()" class="btn btn-success">Send</button>
+</div>
+
+<script>
+    function SendNoti() {
+        $.ajax({
+            url: '/Home/SaveNewMessage',
+            dataType: 'json',
+            type: 'POST',
+            data: {
+                Notify_From: $("#From").val(),
+                Notify_To: $("#To").val(),
+                Notification_Title: $("#Title").val(),
+                Notification_Message: $("#Message").val(),
+            },
+            success: function (result) {
+                alert("Success!");
+            }
+        });
+    }
+</script>
